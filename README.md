@@ -1,2 +1,3 @@
 # WebConference
-Aplicação  web para gerir uma Conferência
+ Introdução ao Desenvolvimento Moderno para a Web
+Funcionou?
